@@ -18,7 +18,11 @@ const diagnose = async (req, res) => {
             }
         });
 
-        res.json(diagnosis);
+        // Menghapus properti "symptoms" dari diagnosis sebelum mengirim respons
+        const response = { ...diagnosis };
+        delete response.symptoms;
+
+        res.json(response);
     } catch (error) {
         res.status(500).json({ error: error.message });
     }
