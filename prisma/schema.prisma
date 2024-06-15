@@ -1,0 +1,16 @@
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Diagnosis {
+  id          Int      @id @default(autoincrement())
+  symptoms    String
+  disease     String
+  description String
+  prevention  String
+}
