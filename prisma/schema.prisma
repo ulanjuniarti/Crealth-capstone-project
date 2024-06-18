@@ -7,10 +7,11 @@ generator client {
   provider = "prisma-client-js"
 }
 
-model Diagnosis {
+model Prediction {
   id          Int      @id @default(autoincrement())
+  createdAt   DateTime @default(now())
   symptoms    String
   disease     String
-  description String
-  prevention  String
+  description String @db.Text
+  precautions String
 }

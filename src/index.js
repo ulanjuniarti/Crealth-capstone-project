@@ -1,19 +1,14 @@
-const express = require('express');
-const bodyParser = require('body-parser');
-const diagnosisRoutes = require('./routes/diagnosisRoutes');
-const { loadModel } = require('./utils/loadModel');
-require('dotenv').config();
+import express from 'express';
+import bodyParser from 'body-parser';
+import predictRoute from './routes/predict.js';
 
 const app = express();
-const port = process.env.APP_PORT || 5000;
+const PORT = process.env.PORT || 5000;
 
 app.use(bodyParser.json());
-app.use('/api', diagnosisRoutes);
 
-loadModel().then(() => {
-    app.listen(port, () => {
-        console.log(`Server running on http://localhost:${port}`);
-    });
-}).catch(err => {
-    console.error('Failed to load the model', err);
+app.use('/api', predictRoute);
+
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
 });

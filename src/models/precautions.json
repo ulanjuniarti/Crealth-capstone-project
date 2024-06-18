@@ -1,0 +1,331 @@
+{
+    "(vertigo) Vertigo Posisi Paroymsal": {
+        "precautions": [
+            "berbaring",
+            "hindari perubahan mendadak pada tubuh",
+            "hindari gerakan kepala secara tiba-tiba",
+            "rileks"
+        ]
+    },
+    "AIDS": {
+        "precautions": [
+            "hindari luka terbuka",
+            "pakai PPE jika memungkinkan",
+            "berkonsultasi dengan dokter",
+            "menindaklanjuti"
+        ]
+    },
+    "Alergi": {
+        "precautions": [
+            "oleskan calamine",
+            "tutupi area dengan perban",
+            "gunakan es untuk mengompres rasa gatal"
+        ]
+    },
+    "Artritis": {
+        "precautions": [
+            "olahraga",
+            "gunakan terapi panas dan dingin",
+            "coba akupunktur",
+            "pijat"
+        ]
+    },
+    "Asma Bronkial": {
+        "precautions": [
+            "beralih ke pakaian longgar",
+            "tarik napas dalam-dalam",
+            "menjauh dari pemicu",
+            "mencari bantuan"
+        ]
+    },
+    "Cacar Air": {
+        "precautions": [
+            "gunakan mimba saat mandi",
+            "mengkonsumsi daun mimba",
+            "ambil vaksin",
+            "hindari tempat umum"
+        ]
+    },
+    "Demam Berdarah": {
+        "precautions": [
+            "minum jus daun pepaya",
+            "hindari makanan pedas berlemak",
+            "jauhkan nyamuk",
+            "tetap terhidrasi"
+        ]
+    },
+    "Diabetes": {
+        "precautions": [
+            "memiliki diet seimbang",
+            "berolahraga",
+            "konsultasikan dengan dokter",
+            "menindaklanjuti"
+        ]
+    },
+    "Flu Biasa": {
+        "precautions": [
+            "minum minuman kaya vitamin C",
+            "mengambil uap",
+            "hindari makanan dingin",
+            "jaga agar demam tetap terkendali"
+        ]
+    },
+    "GERD": {
+        "precautions": [
+            "hindari makanan pedas berlemak",
+            "hindari berbaring setelah makan",
+            "menjaga berat badan yang sehat",
+            "olahraga"
+        ]
+    },
+    "Gastroenteritis": {
+        "precautions": [
+            "berhenti makan makanan padat untuk sementara waktu",
+            "cobalah minum sedikit demi sedikit air",
+            "istirahat",
+            "kemudahan kembali makan"
+        ]
+    },
+    "Hepatitis A": {
+        "precautions": [
+            "konsultasikan dengan rumah sakit terdekat",
+            "cuci tangan sampai bersih",
+            "hindari makanan pedas berlemak",
+            "pengobatan"
+        ]
+    },
+    "Hepatitis B": {
+        "precautions": [
+            "konsultasikan dengan rumah sakit terdekat",
+            "vaksinasi",
+            "makan sehat",
+            "pengobatan"
+        ]
+    },
+    "Hepatitis C": {
+        "precautions": [
+            "berkonsultasi dengan rumah sakit terdekat",
+            "vaksinasi",
+            "makan sehat",
+            "pengobatan"
+        ]
+    },
+    "Hepatitis D": {
+        "precautions": [
+            "berkonsultasi dengan dokter",
+            "pengobatan",
+            "makan makanan yang sehat",
+            "menindaklanjuti"
+        ]
+    },
+    "Hepatitis E": {
+        "precautions": [
+            "hentikan konsumsi alkohol",
+            "istirahat",
+            "berkonsultasi dengan dokter",
+            "pengobatan"
+        ]
+    },
+    "Hepatitis Alkoholik": {
+        "precautions": [
+            "hentikan konsumsi alkohol",
+            "berkonsultasi dengan dokter",
+            "pengobatan",
+            "menindaklanjuti"
+        ]
+    },
+    "Hipertensi": {
+        "precautions": [
+            "meditasi",
+            "mandi garam",
+            "mengurangi stres",
+            "tidur yang nyenyak"
+        ]
+    },
+    "Hipertiroidisme": {
+        "precautions": [
+            "makan yang sehat",
+            "pijat",
+            "gunakan lemon balm",
+            "menjalani pengobatan yodium radioaktif"
+        ]
+    },
+    "Hipoglikemia": {
+        "precautions": [
+            "berbaring miring",
+            "periksa denyut nadi",
+            "minum minuman manis",
+            "berkonsultasi dengan dokter"
+        ]
+    },
+    "Hipotiroidisme": {
+        "precautions": [
+            "mengurangi stres",
+            "berolahraga",
+            "makan yang sehat",
+            "tidur yang nyenyak"
+        ]
+    },
+    "Impetigo": {
+        "precautions": [
+            "rendam area yang terkena dalam air hangat",
+            "gunakan antibiotik",
+            "bersihkan keropeng dengan kain basah yang dikompres",
+            "berkonsultasi dengan dokter"
+        ]
+    },
+    "Infeksi Jamur": {
+        "precautions": [
+            "mandi dua kali",
+            "gunakan detol atau mimba dalam air mandi",
+            "jaga agar area yang terinfeksi tetap kering",
+            "gunakan pakaian yang bersih"
+        ]
+    },
+    "Infeksi Saluran Kemih": {
+        "precautions": [
+            "minum banyak air",
+            "meningkatkan asupan vitamin C",
+            "minum jus cranberry",
+            "minum probiotik"
+        ]
+    },
+    "Jerawat": {
+        "precautions": [
+            "mandi dua kali",
+            "hindari makanan pedas berlemak",
+            "minum banyak air",
+            "hindari terlalu banyak produk"
+        ]
+    },
+    "Kelumpuhan (Pendarahan Otak)": {
+        "precautions": [
+            "pijat",
+            "makan sehat",
+            "olahraga",
+            "berkonsultasi dengan dokter"
+        ]
+    },
+    "Kolestasis Kronis": {
+        "precautions": [
+            "mandi air dingin",
+            "obat anti gatal",
+            "berkonsultasi dengan dokter",
+            "makan yang sehat"
+        ]
+    },
+    "Malaria": {
+        "precautions": [
+            "konsultasikan dengan rumah sakit terdekat",
+            "hindari makanan berminyak",
+            "hindari makanan yang bukan sayuran",
+            "jauhkan nyamuk"
+        ]
+    },
+    "Migrain": {
+        "precautions": [
+            "meditasi",
+            "mengurangi stres",
+            "gunakan kacamata polaroid di bawah sinar matahari",
+            "berkonsultasi dengan dokter"
+        ]
+    },
+    "Osteoartritis": {
+        "precautions": [
+            "asetaminofen",
+            "konsultasikan dengan rumah sakit terdekat",
+            "menindaklanjuti",
+            "mandi garam"
+        ]
+    },
+    "Penyakit Kuning": {
+        "precautions": [
+            "minum banyak air",
+            "mengkonsumsi milk thistle",
+            "makan buah-buahan dan makanan berserat tinggi",
+            "pengobatan"
+        ]
+    },
+    "Penyakit Ulkus Peptikum": {
+        "precautions": [
+            "hindari makanan pedas berlemak",
+            "mengkonsumsi makanan probiotik",
+            "menghilangkan susu",
+            "batasi alkohol"
+        ]
+    },
+    "Pneumonia": {
+        "precautions": [
+            "berkonsultasi dengan dokter",
+            "pengobatan",
+            "istirahat",
+            "tindak lanjut"
+        ]
+    },
+    "Psoriasis": {
+        "precautions": [
+            "cuci tangan dengan air sabun hangat",
+            "hentikan pendarahan dengan menggunakan tekanan",
+            "konsultasikan dengan dokter",
+            "mandi garam"
+        ]
+    },
+    "Reaksi Obat": {
+        "precautions": [
+            "hentikan iritasi",
+            "konsultasikan dengan rumah sakit terdekat",
+            "berhenti minum obat",
+            "tindak lanjut"
+        ]
+    },
+    "Serangan Jantung": {
+        "precautions": [
+            "berkonsultasi dengan dokter",
+            "pengobatan",
+            "istirahat",
+            "tindak lanjut"
+        ]
+    },
+    "Spondilosis Serviks": {
+        "precautions": [
+            "gunakan bantal pemanas atau kompres dingin",
+            "olahraga",
+            "minum pereda nyeri OTC",
+            "berkonsultasi dengan dokter"
+        ]
+    },
+    "Tifus": {
+        "precautions": [
+            "makan sayuran berkalori tinggi",
+            "terapi antibiotik",
+            "berkonsultasi dengan dokter",
+            "pengobatan"
+        ]
+    },
+    "Tuberkulosis": {
+        "precautions": [
+            "tutup mulut",
+            "berkonsultasi dengan dokter",
+            "pengobatan",
+            "istirahat"
+        ]
+    },
+    "Varises": {
+        "precautions": [
+            "berbaring datar dan angkat kaki tinggi-tinggi",
+            "gunakan salep",
+            "gunakan kompresi vena",
+            "jangan berdiri diam terlalu lama"
+        ]
+    },
+    "Wasir Dimorfik (Ambeien)": {
+        "precautions": [
+            "hindari makanan pedas berlemak",
+            "mengkonsumsi witch hazel",
+            "mandi air hangat dengan garam epsom",
+            "konsumsi jus aloe vera"
+        ]
+    }
+}
+
+
