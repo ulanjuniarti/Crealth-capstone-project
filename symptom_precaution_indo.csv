@@ -1,0 +1,42 @@
+Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+Reaksi_Obat,hentikan iritasi,konsultasikan dengan rumah sakit terdekat,berhenti minum obat,tindak lanjut
+Malaria,Konsultasikan dengan rumah sakit terdekat,hindari makanan berminyak,hindari makanan yang bukan sayuran,jauhkan nyamuk
+Alergi,oleskan calamine,tutupi area dengan perban,,gunakan es untuk mengompres rasa gatal
+Hipotiroidisme,mengurangi stres,berolahraga,makan yang sehat,tidur yang nyenyak
+Psoriasis,cuci tangan dengan air sabun hangat,hentikan pendarahan dengan menggunakan tekanan,konsultasikan dengan dokter,mandi garam
+GERD,hindari makanan pedas berlemak,hindari berbaring setelah makan,menjaga berat badan yang sehat,olahraga
+Kolestasis_kronis,mandi air dingin,obat anti gatal,berkonsultasi dengan dokter,makan yang sehat
+Hepatitis_A,Konsultasikan dengan rumah sakit terdekat,cuci tangan sampai bersih,hindari makanan pedas berlemak,pengobatan
+Osteoartritis,asetaminofen,konsultasikan dengan rumah sakit terdekat,menindaklanjuti,mandi garam
+(vertigo)_Vertigo_Posisi_Paroymsal,berbaring,hindari perubahan mendadak pada tubuh,hindari gerakan kepala secara tiba-tiba,rileks
+Hipoglikemia,berbaring miring,periksa denyut nadi,minum minuman manis,berkonsultasi dengan dokter
+Jerawat,mandi dua kali,hindari makanan pedas berlemak,minum banyak air,hindari terlalu banyak produk
+Diabetes,memiliki diet seimbang,berolahraga,konsultasikan dengan dokter,menindaklanjuti
+Impetigo,rendam area yang terkena dalam air hangat,gunakan antibiotik,bersihkan keropeng dengan kain basah yang dikompres,berkonsultasi dengan dokter
+Hipertensi,meditasi,mandi garam,mengurangi stres,tidur yang nyenyak
+Penyakit_ulkus_peptikum,hindari makanan pedas berlemak,mengkonsumsi makanan probiotik,menghilangkan susu,batasi alkohol
+Wasir_dimorfik_(ambeien),hindari makanan pedas berlemak,mengkonsumsi witch hazel,mandi air hangat dengan garam epsom,konsumsi jus alovera
+Flu_biasa,minum minuman kaya vitamin c,mengambil uap,hindari makanan dingin,jaga agar demam tetap terkendali
+Cacar_air,gunakan mimba saat mandi ,mengkonsumsi daun mimba,ambil vaksin,hindari tempat umum
+Spondilosis_serviks,gunakan bantal pemanas atau kompres dingin,olahraga,minum pereda nyeri otc,berkonsultasi dengan dokter
+Hipertiroidisme,makan yang sehat,pijat,gunakan lemon balm,menjalani pengobatan yodium radioaktif
+Infeksi_saluran_kemih,minum banyak air,meningkatkan asupan vitamin c,minum jus cranberry,minum probiotik
+Varises,berbaring datar dan angkat kaki tinggi-tinggi,gunakan salep,gunakan kompresi vena,jangan berdiri diam terlalu lama
+AIDS,hindari luka terbuka,pakai ppe jika memungkinkan,berkonsultasi dengan dokter,menindaklanjuti
+Kelumpuhan_(pendarahan_otak),pijat,makan sehat,olahraga,berkonsultasi dengan dokter
+Tifus,makan sayuran berkalori tinggi,terapi antibiotik,berkonsultasi dengan dokter,pengobatan
+Hepatitis_B,konsultasikan dengan rumah sakit terdekat,vaksinasi,makan sehat,pengobatan
+Infeksi_jamur,mandi dua kali,gunakan detol atau mimba dalam air mandi,jaga agar area yang terinfeksi tetap kering,gunakan pakaian yang bersih
+Hepatitis_C,Berkonsultasi dengan rumah sakit terdekat,vaksinasi,makan sehat,pengobatan
+Migrain,meditasi,mengurangi stres,gunakan kacamata poloroid di bawah sinar matahari,berkonsultasi dengan dokter
+Asma_Bronkial,beralih ke pakaian longgar,tarik napas dalam-dalam,menjauh dari pemicu,mencari bantuan
+Hepatitis_alkoholik,hentikan konsumsi alkohol,berkonsultasi dengan dokter,pengobatan,menindaklanjuti
+Penyakit_kuning,minum banyak air,mengkonsumsi milk thistle,makan buah-buahan dan makanan berserat tinggi,pengobatan
+Hepatitis_E,hentikan konsumsi alkohol,istirahat,berkonsultasi dengan dokter,pengobatan
+Demam_berdarah,minum jus daun pepaya,hindari makanan pedas berlemak,jauhkan nyamuk,tetap terhidrasi
+Hepatitis_D,berkonsultasi dengan dokter,pengobatan,makan makanan yang sehat,menindaklanjuti
+Serangan_jantung,hubungi ambulans,mengunyah atau menelan asprin,tetap tenang,
+Pneumonia,berkonsultasi dengan dokter,pengobatan,istirahat,tindak lanjut
+Radang_sendi,olahraga,gunakan terapi panas dan dingin,coba akupunktur,pijat
+Gastroenteritis,berhenti makan makanan padat untuk sementara waktu,cobalah minum sedikit demi sedikit air,istirahat,kemudahan kembali makan
+Tuberkulosis,tutup mulut,berkonsultasi dengan dokter,pengobatan,istirahat
