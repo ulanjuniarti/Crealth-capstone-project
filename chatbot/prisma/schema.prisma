@@ -1,6 +1,6 @@
 datasource db {
-  provider = "mysql"
-  url      = env("DATABASE_URL")
+  provider = "postgres"
+  url      = "postgres://default:lXi1C9tEOzLU@ep-muddy-thunder-a12xi013-pooler.ap-southeast-1.aws.neon.tech:5432/verceldb?sslmode=require&pgbouncer=true&connect_timeout=15"
 }
 
 generator client {
@@ -12,6 +12,6 @@ model Prediction {
   createdAt   DateTime @default(now())
   symptoms    String
   disease     String
-  description String @db.Text
+  description String   @db.Text
   precautions String
 }
